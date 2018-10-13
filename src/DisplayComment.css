@@ -1,0 +1,37 @@
+.a-reply {
+	color: #000000; 	
+	white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    text-decoration: underline;
+}
+
+.a-reply:visited {
+	color: #000000;
+    text-decoration: underline;
+}
+
+.a-reply:link {
+    color: #000000;
+    text-decoration: underline;
+}
+
+.link-user{
+    color: #808080;     
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+}
+
+.link-user:visited {
+    color: #808080;
+}
+
+.link-user:hover {
+    color: #808080;
+    text-decoration: underline;
+}

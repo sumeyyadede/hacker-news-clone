@@ -1,0 +1,16 @@
+.link {
+	color: #000000; 	
+	white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+}
+
+.link:visited {
+    color: #808080;
+}
+
+.link:hover {
+    color: #808080;
+}

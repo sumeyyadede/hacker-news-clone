@@ -1,0 +1,111 @@
+.more {
+ 	margin-right: 5px;
+    color: #808080;
+	white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+}
+
+.more:hover {
+	color: #808080;
+}
+
+.link {
+	color: #000000; 	
+	white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+}
+
+.link:visited {
+    color: #808080;
+}
+
+.link:hover {
+    color: #808080;
+}
+
+.a {
+    text-decoration: underline;
+	color: #000000; 	
+	white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+}
+
+.a:visited {
+	color: #828282;
+    text-decoration: none;
+    text-decoration: underline;
+}
+
+.a:link {
+    text-decoration: underline;
+}
+
+.input {
+	padding: 2px 0px 0px 2px;
+	box-sizing: border-box;
+    font-family: monospace;
+    border-color: rgb(169, 169, 169);
+    -webkit-appearance: textarea;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    -webkit-writing-mode: horizontal-tb;
+    flex-direction: column;
+    resize: auto;
+    cursor: auto;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    border-width: 1px;
+    border-style: solid;
+    border-color: initial;
+    border-image: initial;
+    padding: 2px;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial; 
+}
+
+.input:focus {
+ 	box-shadow: 0 0 1px #ff6600;
+    border-color: #ff6600;
+    color: #ff6600;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+
+.input:active {
+    border-color: #ff6600;
+    color: #ff6600;
+}
+
+.p {
+    color: #808080;
+    text-align: inherit;
+    margin-left: 20px;
+}
+

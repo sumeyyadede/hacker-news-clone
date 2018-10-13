@@ -1,0 +1,53 @@
+.table {
+	border: 0;
+	cellpadding: 0;
+	cellspacing: 0;
+	width: 85%;
+	background-color: #f6f6ef;
+	white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal normal;
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+.tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+.tr {
+	display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+.td {
+	font-family: Verdana, Geneva, sans-serif;
+    font-size: 10pt;
+    color: #828282;
+}
+
+.center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+.line {
+ 	background-color: #ff6600;
+ 	display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+}

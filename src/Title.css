@@ -1,0 +1,27 @@
+.title {
+	color: #000000; 	
+	white-space: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+	text-decoration: none;
+}
+
+.title:visited {
+    color: #808080;
+	text-decoration: none;
+}
+
+.title:hover {
+	color: #000000; 	
+	text-decoration: none;
+}
+
+.img {
+	margin-top: 2%;
+	border: 1px white solid;
+	width: 18px; 
+	padding-right: 4px;
+	display: table-cell;
+    vertical-align: inherit;   
+}
